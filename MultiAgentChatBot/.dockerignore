@@ -1,0 +1,13 @@
+i__pycache__
+*.pyc
+*.pyo
+*.pyd
+
+.env
+.git
+.github
+
+venv
+.venv
+
+.streamlit
